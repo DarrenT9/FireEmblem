@@ -33,4 +33,4 @@ Oscigen's js_of_ocaml library was used to build the GUI. The library translates 
 - Frank Rodriguez [@frodr33](https://github.com/frodr33)
 - Albert Tsao [@awtsao](https://github.com/awtsao)
 - Darren Tsai [@DarrenT9](https://github.com/DarrenT9)
-- Ray Gu
+- Ray Gu [@rg545](https://github.com/rg545)
